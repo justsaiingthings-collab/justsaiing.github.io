@@ -1,0 +1,23 @@
+{
+  "name": "Daily Ritual Tracker",
+  "short_name": "Rituals",
+  "description": "An application to track your daily rituals and habits. Monitor your progress with daily checklists and see your consistency over weeks and months with a calendar view.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#171717",
+  "theme_color": "#0891b2",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMTcxNzE3Ij48Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIHI9IjI1NiIvPjxwYXRoIGZpbGw9IiMwOEM0RTYiIGQ9Im00MDEuMSAxODEuMS0xNDggMTQ4Yy00LjcgNC43LTExIDcuMy0xNy43IDcuMyBzLTEzLTIuNi0xNy43LTcuM2wtNjQtNjRjLTkuNC05LjQtOS40LTI0LjYgMC0zMy45czI0LjYtOS40IDMzLjkgMGw0Ny4xIDQ3LjEgMTMxLjEtMTMxLjFjOS40LTkuNCAyNC42LTkuNCAzMy45IDBzOS40IDI0LjYgMCAzMy45eiIvPjwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMTcxNzE3Ij48Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIHI9IjI1NiIvPjxwYXRoIGZpbGw9IiMwOEM0RTYiIGQ9Im00MDEuMSAxODEuMS0xNDggMTQ4Yy00LjcgNC43LTExIDcuMy0xNy43IDcuMyBzLTEzLTIuNi0xNy43LTcuM2wtNjQtNjRjLTkuNC05LjQtOS40LTI0LjYgMC0zMy45czI0LjYtOS40IDMzLjkgMGw0Ny4xIDQ3LjEgMTMxLjEtMTMxLjFjOS40LTkuNCAyNC42LTkuNCAzMy45IDBzOS40IDI0LjYgMCAzMy45eiIvPjwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
